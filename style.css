@@ -1,0 +1,28 @@
+
+.headng
+{
+   border: 2px solid blueviolet;
+    padding: 2px;
+    text-align:center ;
+   color: blueviolet;
+   background-color: aquamarine;
+}
+.paragph
+{
+    color:green;
+    text-align: justify;
+}
+table
+{
+    border: 1px solid blue;
+    border-spacing: 0;
+    padding: 0px;
+}
+td,th,tr
+{
+    border: 1px solid blue;
+    border-spacing: 0;
+    background-color:royalblue; 
+    padding: 20px;
+    text-align:justify;
+}

@@ -1,0 +1,30 @@
+.heading {
+    text-align: center;
+    font-size: 24px;
+    color: rgb(85, 0, 255);
+}
+#tab
+
+    {   font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 50%;
+        border: 1px solid #ddd;
+        padding: 8px;
+      }
+      #tab td, #tab th {
+        border: 1px solid #0feb3f;
+        padding: 8px;
+        text-align: left;
+      }
+      
+      #tab tr:nth-child(even){background-color: #48c497;}
+
+      #tab tr:hover {background-color: #6c07f0;}
+      
+      #tab th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: center;
+        background-color: #9e81e6;
+        color:white;
+      }

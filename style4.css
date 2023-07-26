@@ -1,0 +1,63 @@
+body {
+  
+    background-image: url(/image/Rectangle\ 101.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+   
+  }
+  
+ 
+  ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+   width: auto;
+   display: block;
+   opacity: .5;
+   position: relative;
+  
+     }
+
+  ul.navbar li
+   {
+    
+   display: inline;
+   float:right;
+
+  }
+
+  ul.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+   
+  }
+
+ li.hom
+ {
+  text-decoration: underline solid white;
+ }
+.navbar a:hover{
+  background-color: blue;
+ }
+ 
+
+ .dropdown
+ {
+  
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+   padding: 12px 16px;
+  
+ }
+.dropdown :hover
+ {
+  display: block;
+  
+ }
